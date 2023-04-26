@@ -3,19 +3,7 @@
   "words": [
     "HackYourFutureBelgium",
     "HackYourFuture",
-    "Nepo",
-    "Holovko",
-    "mariya",
-    "mileenka",
-    "Milena",
-    "Wasowicz",
-    "mileenka",
-    "Cano",
-    "Zahira",
-    "zahirabella",
-    "Visualforce",
-    "Pardot",
-    "icone"
+    "Nepo"
   ],
   "ignorePaths": [
     "node_modules/**",
