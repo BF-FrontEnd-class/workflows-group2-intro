@@ -6,8 +6,8 @@
 
 #### I'm 26 years old, I'm from the city of salsa Cali, Colombia 🇨🇴
 
-but 4 years ago I came to live in Belgium 🇧🇪
-looking for new opportunities even though a pandemic came 😅
+but 4 years ago I came to live in Belgium 🇧🇪 looking for new opportunities even
+though a pandemic came 😅
 
 > _❤️ I love animals! That's Milo my baby doggo and I._ ![image](./img/milo.png)
 
