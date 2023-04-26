@@ -1,6 +1,22 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Holovko",
+    "mariya",
+    "mileenka",
+    "Milena",
+    "Wasowicz",
+    "mileenka",
+    "Cano",
+    "Zahira",
+    "zahirabella",
+    "Visualforce",
+    "Pardot",
+    "icone"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
