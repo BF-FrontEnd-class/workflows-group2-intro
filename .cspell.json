@@ -4,7 +4,6 @@
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
-
   ],
   "ignorePaths": [
     "node_modules/**",
