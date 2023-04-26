@@ -4,8 +4,7 @@
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
-    "hobbys",
-    "coocking"
+
   ],
   "ignorePaths": [
     "node_modules/**",
