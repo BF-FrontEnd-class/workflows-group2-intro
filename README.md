@@ -1,49 +1,15 @@
-# (project name)
+# Project Intro: Meet Our Group Members 👋
 
-<!-- describe your project -->
+Welcome to our project! We are a team of four individuals who have come together to collaborate on a project. In this repository, you will find information about each of our group members to help you get to know us better.
 
-## Getting Started
+## Group Members
 
-<!-- a guide to using this repository -->
+|  | Name |
+|---|---|
+| <img src="https://example.com/john_photo.jpg" width="50" height="50" style="border-radius: 50%;"/> | [Zahira Bella](./members/zahirabella.md) |
+| <img src="https://example.com/jane_photo.jpg" width="50" height="50" style="border-radius: 50%;"/> | [Maria Holovko](./members/jane_smith.md) |
+| <img src="https://example.com/bob_photo.jpg" width="50" height="50" style="border-radius: 50%;"/> | [Milena Wasowicz](./members/bob_johnson.md) |
+| <img src="https://example.com/samantha_photo.jpg" width="50" height="50" style="border-radius: 50%;"/> | [Karol Cano](./members/samantha_lee.md) |
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+Each member of our group has created a file that contains information about themselves. You can access these files by clicking on their name in the table above.
 
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- In _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
