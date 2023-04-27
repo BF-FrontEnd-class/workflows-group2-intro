@@ -1,6 +1,8 @@
 # Maria Info
 
-## My name is Maria, I am from Ukraine. I am a Project Manager
+## My name is **Maria**, I am from Ukraine. I am a Project Manager
+
+## I am excited with opportunity to learn coding 👍
 
 &nbsp;
 
